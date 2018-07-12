@@ -1,5 +1,7 @@
 # RGBPixelDemo
-An Arduino demo sketch for use with the RGBPixels available from AnalysIR's Tindie store
+An Arduino demo sketch for use with the RGBPixels available from AnalysIR's Tindie store: https://www.tindie.com/stores/AnalysIR/
+
+Contact via: https://www.AnalysIR.com/blog/
 
 
 
