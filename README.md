@@ -14,6 +14,8 @@ An Arduino demo sketch for use with the RGBPixels available from AnalysIR's Tind
 - 5V & GND are connected from the first module to to 5V & GND on the second  module in sequence....and so on.
 - DataOUT on the first module is connected to DataIN on the second module in sequence ....and so on.
 
+**Note:** *If you connect a large number of modules together you may need to supply 5V power to the modules via an independent power supply.*
+
 
 **Contact via:** https://www.AnalysIR.com/blog/
 
